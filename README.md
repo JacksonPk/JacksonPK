@@ -3,7 +3,7 @@
 I'm Jackson. Lived in Korea🇰🇷
 
 
-<img src = "https://img.shields.io/badge/Jackson-181717?style=flat-square&logo=Github&logoColor=white&link=https://velog.io/@rarebook92">
+<img src = "https://img.shields.io/badge/Jackson-000000?style=flat-square&logo=Apple&logoColor=white&">
 
 
 <!--

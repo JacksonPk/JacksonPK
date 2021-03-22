@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-I'm Jackson. Lived in Korea🇰🇷
+I'm <img src = "https://img.shields.io/badge/Jackson-000000?style=flat-square&logo=Apple&logoColor=white&"> . Lived in Korea 🇰🇷
 
+### Main Language 
+[![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)]
 
-<img src = "https://img.shields.io/badge/Jackson-000000?style=flat-square&logo=Apple&logoColor=white&"> [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rarebook92@naver.com)](mailto:rarebook92@naver.com)
+### I have
+📱7, 💻 pro(Retina-15inch, Mid 2015)
+
+### Mail to 
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rarebook92@naver.com)](mailto:rarebook92@naver.com)
 <!--
 **JacksonPk/JacksonPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

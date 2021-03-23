@@ -2,7 +2,7 @@
 
 ### I'm <img src = "https://img.shields.io/badge/Jackson-000000?style=flat-square&logo=Apple&logoColor=white&"> . Lived in Korea 🇰🇷
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonPK&layout=compact&langs_count=5&theme=dracula)](https://github.com/JacksonPK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonPK&layout=compact&theme=dracula)](https://github.com/JacksonPK/github-readme-stats)
 
 ### I have 📱7, 💻 pro(Retina-15inch, Mid 2015)
 
